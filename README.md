@@ -1,2 +1,2 @@
 # MyDemo
-学习demo
+Javascript学习demo
